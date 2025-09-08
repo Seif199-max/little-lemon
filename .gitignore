@@ -1,5 +1,3 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-env/Lib
 # Python
 __pycache__/
 *.py[cod]
@@ -11,6 +9,7 @@ __pycache__/
 venv/
 .venv/
 .env
+env
 *.env
 
 # Django
